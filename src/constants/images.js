@@ -1,10 +1,17 @@
 import bg from '../assets/bg.png';
 import chef from '../assets/chef.png';
 import G from '../assets/G.png';
-import gallery01 from '../assets/gallery01.png';
-import gallery02 from '../assets/gallery02.png';
-import gallery03 from '../assets/gallery03.png';
-import gallery04 from '../assets/gallery04.png';
+import food from '../assets/food.jpg';
+import food1 from '../assets/food1.jpg';
+import food2 from '../assets/food2.jpg';
+import food3 from '../assets/food3.jpg';
+import food4 from '../assets/food4.jpg';
+import food5 from '../assets/food5.jpg';
+import food6 from '../assets/food6.jpg';
+import food7 from '../assets/food7.jpg';
+import food8 from '../assets/food8.png';
+import wine from '../assets/wine.jpg';
+import wine1 from '../assets/wine1.jpg';
 import knife from '../assets/knife.png';
 import logo from '../assets/logo.png';
 import menu from '../assets/menu.png';
@@ -25,10 +32,17 @@ export default {
   bg,
   chef,
   G,
-  gallery01,
-  gallery02,
-  gallery03,
-  gallery04,
+  food,
+  food1,
+  food2,
+  food3,
+  food4,
+  food5,
+  food6,
+  food7,
+  food8,
+  wine,
+  wine1,
   knife,
   logo,
   menu,
